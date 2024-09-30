@@ -33,6 +33,7 @@ Github and git have basic motions which you can learn in the interactive tutoria
 4. **'Pull'** downloads changes from the repository on Github to your computer. (command line: `git pull`)
 
 There are a few more motions. You can learn more about them in the interactive tutorial, e.g., 'pull request'and 'issues'.
+You can also see the history of this repository by clicking on the 'commits' tab. You get a sense of what is added by reading my commit messages.
 
 You can also read more about it in MIT's [missing semester](https://missing.csail.mit.edu/2020/version-control/)
 
