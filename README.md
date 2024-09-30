@@ -34,6 +34,8 @@ Github and git have basic motions which you can learn in the interactive tutoria
 
 There are a few more motions. You can learn more about them in the interactive tutorial, e.g., 'pull request'and 'issues'.
 
+You can also read more about it in MIT's [missing semester](https://missing.csail.mit.edu/2020/version-control/)
+
 ## Interfacing with Git/Github on your computer. 
 
 - You can download the Git client from [here](https://git-scm.com/downloads).
@@ -56,7 +58,7 @@ R is a programming language that is best in class for statistical analysis and d
 - We recommend using RStudio as an IDE for R. You can download RStudio from [here](https://rstudio.com/products/rstudio/download/). (VS code will also work)
 
 ## Quarto
-[Quarto](https://quarto.org/) is a new document format that allows you to write documents in [markdown](https://www.markdownguide.org/) and render them to PDF, HTML, and other formats. Quarto notebooks let you mix code blocks with markdown text, which is great for writing reports interleaved with your thought process during the analysis. We will use quarto (.qmd) files for assignments in BMS93. Quarto works with Python and R and aims to replace Jupyter (mostly python) and Rmarkdown (mostly R) notebook formats.
+[Quarto](https://quarto.org/) is a new document format that allows you to write documents in [markdown](https://www.markdownguide.org/) and render them to PDF, HTML, and other formats. Quarto notebooks let you mix code blocks with markdown text, which is great for writing reports interleaved with your thought process during the analysis. We will use quarto (.qmd) files for assignments in BMS93. Quarto works with Python and R and aims to replace Jupyter (mostly python) and Rmarkdown (mostly R) notebook formats. For note, this document is written in markdown (see the .md extension).
 
 - You can download Quarto from [here](https://quarto.org/docs/getting-started/installation.html).
 
