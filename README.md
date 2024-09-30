@@ -5,17 +5,20 @@ This document aggregates key resources and *how-to* guides to get started.
 ## The end goal: reproducible analysis
 The aim of BMS93 is to prepare the students to carry out reproducible research. Here, we focus on declarative analysis using scripting code (Python, R) and version control (Git/Github). We will use the Quarto document format to blend in code and text to capture the thought processes during the analysis and render figures.
 
-## Example studies from the Grandjean lab to inspire you
-Study: https://pubmed.ncbi.nlm.nih.gov/34650202/
-Code: https://gitlab.socsci.ru.nl/preclinical-neuroimaging/insula
+## Example studies from the Grandjean lab to inspire you to write reproducible notebook.
+Study: https://pubmed.ncbi.nlm.nih.gov/34650202/   
+Code: https://gitlab.socsci.ru.nl/preclinical-neuroimaging/insula   
+Language: R
 
-Study: https://pubmed.ncbi.nlm.nih.gov/36973511/
-Preregistration: https://osf.io/emq4b
-Code: https://github.com/grandjeanlab/MultiRat
+Study: https://pubmed.ncbi.nlm.nih.gov/36973511/   
+Preregistration: https://osf.io/emq4b   
+Code: https://github.com/grandjeanlab/MultiRat   
+Language: Python
 
-Ongoing study: Galteau et al. Activation mapping in multi-center rat sensory-evoked functional MRI datasets using a unified pipeline. 
-Preregistration: https://osf.io/8vy9r
-Code: https://github.com/grandjeanlab/multirat_se
+Ongoing study: Galteau et al. Activation mapping in multi-center rat sensory-evoked functional MRI datasets using a unified pipeline.   
+Preregistration: https://osf.io/8vy9r   
+Code: https://github.com/grandjeanlab/multirat_se   
+Language: Python
 
 ## Gitub
 We use Github classrooms to distribute tutorials and assignment. Github is a popular system to host code and work collaboratively. Github interacts with your computer via Git, a version control system. In BMS93, we expect you to learn and become familiar with the basics of Git and Github. Github provides a tutorial to get started, which you can access through the link on brightspace.
