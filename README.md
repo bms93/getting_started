@@ -67,7 +67,7 @@ R is a programming language that is best in class for statistical analysis and d
 1. Open VSCode and click on the source control icon on the left-hand side of the screen. (shortcut ctl+shift+g, blue highlight)   
 ![source control icon](assets/vscode_source.png)
 2. Click on the 'Clone Repository' button. 
-3. Enter the URL of the repository you want to clone. You can get this from the Github page of the repository. e.g. https://github.com/bms93/github-intro-YOURUSERNAME.git
+3. Enter the URL of the repository you want to clone. You can get this from the Github page of the repository. e.g. https://github.com/bms93/git-YOURUSERNAME.git if you follow the 'git' tutorial on brightspace.
 4. You may need to input Github username and password.
 5. Choose a location on your computer to save the repository.
 6. You can now see the files in the repository in the file explorer (shortcut ctl+shift+e, red highlight).
@@ -81,7 +81,7 @@ R is a programming language that is best in class for statistical analysis and d
 1. Open RStudio and click on the 'File'/'New Project' menu.
 2. Choose 'Version Control' and then 'Git'.   
 ![](assets/rstudio_version.png)
-3. Enter the URL of the repository you want to clone. You can get this from the Github page of the repository. e.g. https://github.com/bms93/github-intro-YOURUSERNAME.git
+3. Enter the URL of the repository you want to clone. You can get this from the Github page of the repository. e.g. https://github.com/bms93/git-YOURUSERNAME.git if you follow the 'git' tutorial on brightspace.
 ![](assets/rstudio_version2.png)
 4. You may need to input Github username and password.
 5. Choose a location on your computer to save the repository.
