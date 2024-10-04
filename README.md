@@ -21,7 +21,9 @@ Code: https://github.com/grandjeanlab/multirat_se
 Language: Python
 
 ## Gitub
-We use Github classrooms to distribute tutorials and assignment. Github is a popular system to host code and work collaboratively. Github interacts with your computer via Git, a version control system. In BMS93, we expect you to learn and become familiar with the basics of Git and Github. Github provides a tutorial to get started, which you can access through the link on brightspace.
+We use Github classrooms to distribute tutorials and assignment. Github is a popular system to host code and work collaboratively. Github interacts with your computer via Git, a version control system. In BMS93, we expect you to learn and become familiar with the basics of Git and Github. Github provides a tutorial to get started, which you can access through the link on brightspace. These will automatically create private repositories for you to work on.
+
+You can see your own Github repositories by going to [https://github.com/orgs/bms93/repositories](https://github.com/orgs/bms93/repositories)
 
 Github contains repositories, which is where code is stored and shared. You can 'clone' a repository to your computer by using an https URL. You can get the URL from the Github page of the repository. You can get 'https', 'ssh' and 'git' URLs. We recommend using 'https' for beginners.
 ![](assets/github.png)
@@ -62,6 +64,8 @@ R is a programming language that is best in class for statistical analysis and d
 [Quarto](https://quarto.org/) is a new document format that allows you to write documents in [markdown](https://www.markdownguide.org/) and render them to PDF, HTML, and other formats. Quarto notebooks let you mix code blocks with markdown text, which is great for writing reports interleaved with your thought process during the analysis. We will use quarto (.qmd) files for assignments in BMS93. Quarto works with Python and R and aims to replace Jupyter (mostly python) and Rmarkdown (mostly R) notebook formats. For note, this document is written in markdown (see the .md extension).
 
 - You can download Quarto from [here](https://quarto.org/docs/getting-started/installation.html).
+
+### Important. Quarto can render documents in many formats. This is defined in your '.qmd' file header under `format:`. Please use the **format: gfm** for all your documents in BMS93. This will render the document in a format that is easy to read on Github.
 
 ## Getting started with Git in VSCode
 1. Open VSCode and click on the source control icon on the left-hand side of the screen. (shortcut ctl+shift+g, blue highlight)   
