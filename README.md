@@ -82,35 +82,35 @@ This lets you use the Git command line interface (CLI) to interact with Github.
 
 - There is also a Git Desktop client where you can manage your Git workflow using a GUI outside VSCode or RStudio.
 
-<details>
-<summary>## Python</summary>
+## Python
 Python is a general purpose programming language that is widely used in data science. It is largely popular in part, due to its excellent support for Machine Learning and AI applications.
+
+Refer to task-1 which you can find under https://github.com/bms93/py-intro-YOURUSERNAME (after you activated the link on brighspace) for details about the installation and setup. 
 
 - MacOS should already come with Python pre-installed. You can test this by opening the *Terminal* app on your MacOS and typing `python` + <Enter> to open a python session. 
 - Windows usesr may need to install Python. You can download Python from [here](https://www.python.org/downloads/).
 - Python is a barebone scripting language. In most projects, users add packages to add functionality (e.g. Pandas to work with tables). Here, we will use the virtual environements (`.venv`) framework and `pip` to install python packages. Learn about VSCode intergration of virtual environements [here](https://code.visualstudio.com/docs/python/environments).  
-- We recommend usig VScode as an IDE for Python. You can download VScode from [here](https://code.visualstudio.com/download). (Rstudio will also work)
-- In VS code, you will need to download the Python, Jupyter, and Quarto extensions. (ctrl+shift+x, search for Python, Jupyter, and Quarto, click install).
-</details>
+- We recommend usig VScode as an IDE for Python. You can download VScode from [here](https://code.visualstudio.com/download). (Rstudio will also work, setup at your own risks)
+- In VS code, you will need to download the Python, Jupyter, and Quarto extensions. (ctrl+shift+x to open the extension panel in VSCode, search for Python, Jupyter, and Quarto, click install).
 
-<details>
-<summary>## R</summary>
+## R
 R is a programming language that is best in class for statistical analysis and data visualization. 
 
+Refer to task-1 which you can find under https://github.com/bms93/r-intro-YOURUSERNAME (after you activated the link on brighspace) for details about the installation and setup. 
+
 - You can download R from [here](https://cran.r-project.org/).
-- We recommend using RStudio as an IDE for R. You can download RStudio from [here](https://rstudio.com/products/rstudio/download/). (VS code will also work)
+- We recommend using RStudio as an IDE for R. You can download RStudio from [here](https://rstudio.com/products/rstudio/download/). (VS code will also work, setup at your own risks)
 - R functions are added by installing packages. Package installation is managed within RStudio or can be achieved from the command line with `install.packages('name-of-your-package')`
-</details>
 
 ## Quarto
 [Quarto](https://quarto.org/) is a new document format that allows you to write documents in [markdown](https://www.markdownguide.org/) and render them to PDF, HTML, Word, and other formats. Quarto notebooks let you mix code blocks with markdown text, which is great for writing reports interleaved with your thought process during the analysis. We will use quarto (.qmd) files for assignments in BMS93. Quarto works with Python and R and aims to replace Jupyter (mostly python) and Rmarkdown (mostly R) notebook formats. For note, this document is written in markdown (see the .md extension).
 
-- You can download Quarto from [here](https://quarto.org/docs/getting-started/installation.html).
+- It comes pre-intralled with RStudio. 
+- If you use VSCode, you can download Quarto from [here](https://quarto.org/docs/getting-started/installation.html).
 
 ### ***Important***. Quarto can render documents in many formats. This is defined in your '.qmd' file header under `format:`. Please use the **format: gfm** for all your documents in BMS93. This will render the document in a format that is easy to read on Github. We will not assess documents in other formats!`
 
-<details>
-<summary>## Getting started with Git in VSCode</summary>
+## Getting started with Git in VSCode
 1. Open VSCode and click on the source control icon on the left-hand side of the screen. (shortcut ctl+shift+g, blue highlight)   
 ![source control icon](assets/vscode_source.png)
 2. Click on the 'Clone Repository' button. 
@@ -124,10 +124,8 @@ R is a programming language that is best in class for statistical analysis and d
 ![source control icon](assets/vscode_source2.png)
 10. To push the changes to Github, click on the three dots (...) and select 'push'. You may need to input your Github username and password.
 11. You can now see the changes on the Github page of the repository, so can your tutors!! Yay. 
-</details>
 
-<details>
-<summary>## Getting started with Git in RStudio</summary>
+## Getting started with Git in RStudio
 1. Open RStudio and click on the 'File'/'New Project' menu.
 2. Choose 'Version Control' and then 'Git'.   
 ![](assets/rstudio_version.png)
@@ -142,7 +140,6 @@ R is a programming language that is best in class for statistical analysis and d
 9. To push the changes to Github, click on 'push'. You may need to input your Github username and password.
 ![](assets/rstudio_version4.png)
 10. You can now see the changes on the Github page of the repository, so can your tutors!! Yay.
-</details>
 
 ## What to do now? 
 Follow the links on Brightspace to follow the Git, and Python or R tutorials. Once you are done with these and confident with your skills, clone the assignment repository, pick a dataset, a research question, and start working on your analysis. 
