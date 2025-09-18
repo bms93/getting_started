@@ -93,10 +93,12 @@ Python is a general purpose programming language that is widely used in data sci
 Refer to task-1 which you can find under https://github.com/bms93/py-intro-YOURUSERNAME (after you activated the link on brighspace) for details about the installation and setup.  
 
 - MacOS should already come with Python pre-installed. You can test this by opening the *Terminal* app on your MacOS and typing `python` + <Enter> to open a python session.   
-- Windows usesr may need to install Python. You can download Python from [here](https://www.python.org/downloads/).   
+- Windows usesr may need to install Python. You can download Python from [here](https://www.python.org/downloads/). Make sure you tick the box "Add Python X.X to PATH"!!!. See picture below.      
 - Python is a barebone scripting language. In most projects, users add packages to add functionality (e.g. Pandas to work with tables). Here, we will use the virtual environements (`.venv`) framework and `pip` to install python packages. Learn about VSCode intergration of virtual environements [here](https://code.visualstudio.com/docs/python/environments).  
 - We recommend usig VScode as an IDE for Python. You can download VScode from [here](https://code.visualstudio.com/download). (Rstudio will also work, setup at your own risks)   
 - In VS code, you will need to download the Python, Jupyter, and Quarto extensions. (ctrl+shift+x to open the extension panel in VSCode, search for Python, Jupyter, and Quarto, click install).   
+
+![](assets/win_installer.png)
 
 ## R
 R is a programming language that is best in class for statistical analysis and data visualization.   
