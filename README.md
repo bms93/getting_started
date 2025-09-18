@@ -51,6 +51,11 @@ Preregistration: https://osf.io/8vy9r
 Code: https://github.com/grandjeanlab/multirat_se   
 Language: Python
 
+## Technical issues with the course? 
+No problem. To get you used to the motion of GitHub (see below), we ask you to fill in your technical issues in a centralized place. 
+**[https://github.com/bms93/issues](https://github.com/bms93/issues)**
+We will not address issues submitted by emails past the first week. 
+
 ## Quick note on AI. 
 Use it at your own risk. It helps with coding. But it cannot replace thinking and problem-solving. Learning (with your brain and google) how to troubleshoot coding issues can get you out of issues that AI cannot. Using your brain can also give you a sense of satisfaction. In the end, you are assessed for the work done and your understanding. Use AI wisely. 
 
