@@ -24,9 +24,9 @@ You are assessed at two moments.
 
 | Category | Deficient; can be compensated. 1 point | Sufficient/Good. 2 points | Exemplary. 3 points |
 |---|---|---|---|
-| Organization | No discussion of the code/results. Unrelated code chuncks left over in the notebook.  | Easy to navigate notebook. Results are discussed with text between code chunks.. The document is rendered correctly | The analysis is divided into clear sections. The discussion of the results is clear.  |
-| Potential for reproducibility | Not clear how to set the environement. Code chunks not in order | Code is clear. You should be able to run it on your machine with minimal tweaks | Code is super clear. Instructions for package installations (and version). Path are relative, or used together with a variable that the user can adjust to their needs |
-| Soundness of analysis  | The student makes questionable analytical decision | The analysis is sound. Good use of the tools and packages.  | The student goes above and beyond. Find new and exciting tools to address their needs |
+| Organization | No discussion of the code/results. Unrelated code chuncks left over in the notebook.  | Easy to navigate notebook. Results are discussed with text between code chunks. The document is rendered correctly | The analysis is divided into clear sections. The discussion of the results is clear.  |
+| Potential for reproducibility | Not clear how to set the environement. Code chunks not in order | Code is clear. You should be able to run it on your machine with minimal tweaks. | Code is super clear. Instructions for package installations (and version). Path are relative, or used together with a variable that the user can adjust to their needs. |
+| Soundness of analysis  | The student makes questionable analytical decision. | The analysis is sound. Good use of the tools and packages.  | The student goes above and beyond. Find new and exciting tools to address their needs. |
 
 
 3. Additionally, get get points removed for not updating your weekly progress report.  
