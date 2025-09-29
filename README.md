@@ -11,7 +11,7 @@ At the end of the course, you can import a dataset into Python or R, extract cha
 ## Your assesment. 
 You are assessed at two moments. 
 
-1. You are assessed on your ability to present clearly the outcome of an analysis that you carried on a [dataset](https:/github.com/orgs/bms93/datasets) of your choice.   
+1. You are assessed on your ability to present clearly the outcome of an analysis that you carried on a [dataset](https:/github.com/orgs/bms93/dataset) of your choice.   
 
 | Category | Deficient; can be compensated. 1 point | Sufficient/Good. 2 points | Exemplary. 3 points |
 |---|---|---|---|
