@@ -81,6 +81,7 @@ You can also read more about it in MIT's [missing semester](https://missing.csai
 ## Interfacing with Git/Github on your computer. 
 
 - You can download the Git client from [here](https://git-scm.com/downloads).   
+- MacOS users need to use the [homebrew](https://brew.sh/) package manager to install git (!!!)   
 This lets you use the Git command line interface (CLI) to interact with Github.   
 
 - Interactive Development Environments (IDE) like VSCode and RStudio have integrated Git support. You can use these to interact with Github from a graphical user interface (GUI). For beguiners, this is a good way to get started. They will let your perform `clone`, `commit`, `push` and `pull` easily. See the sections below for screenshots and instructions on how to use Git in these IDEs.   
