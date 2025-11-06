@@ -156,3 +156,5 @@ Refer to task-1 which you can find under https://github.com/bms93/r-intro-YOURUS
 
 ## What to do now? 
 Follow the links on Brightspace to follow the Git, and Python or R tutorials. Once you are done with these and confident with your skills, clone the assignment repository, pick a dataset, a research question, and start working on your analysis. 
+## Further readings
+[TADA! Simple guidelines to improve code sharing](https://ecoevorxiv.org/repository/view/9806/)
