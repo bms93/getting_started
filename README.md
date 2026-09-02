@@ -96,7 +96,7 @@ remember to change the name and email to yours.
 ## Python
 Python is a general purpose programming language that is widely used in data science. It is largely popular in part, due to its excellent support for Machine Learning and AI applications.   
 
-Refer to task-1 which you can find under https://github.com/bms93/python-YOURUSERNAME (after you activated the link on brighspace) for details about the installation and setup.  
+Refer to task-1 which you can find under https://github.com/bms93/bms93/data-science-for-biomedical-scientist-python-YOURUSERNAME (after you activated the link on brighspace) for details about the installation and setup.  
 
 - MacOS should already come with Python pre-installed. You can test this by opening the *Terminal* app on your MacOS and typing `python` + Enter to open a python session.   
 - Windows usesr may need to install Python. You can download Python from [here](https://www.python.org/downloads/). Make sure you tick the box "Add Python X.X to PATH"!!!. See picture below.      
@@ -109,7 +109,7 @@ Refer to task-1 which you can find under https://github.com/bms93/python-YOURUSE
 ## R
 R is a programming language that is best in class for statistical analysis and data visualization.   
 
-Refer to task-1 which you can find under https://github.com/bms93/rr-YOURUSERNAME (after you activated the link on brighspace) for details about the installation and setup. 
+Refer to task-1 which you can find under https://github.com/bms93/bms93/data-science-for-biomedical-scientist-rr-YOURUSERNAME (after you activated the link on brighspace) for details about the installation and setup. 
 
 - You can download R from [here](https://cran.r-project.org/).   
 - We recommend using RStudio as an IDE for R. You can download RStudio from [here](https://rstudio.com/products/rstudio/download/). (VS code will also work, setup at your own risks)   
